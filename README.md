@@ -104,7 +104,7 @@ The pipeline:
 
 ## 👨‍💻 Author
 
-**Manikanta Sambu**
+**Manikanta Narayandas**
 
 MSc Business Analytics & Data Science
 
