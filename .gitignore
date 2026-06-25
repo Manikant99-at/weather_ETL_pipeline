@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+airflow.db
+logs/
+weather_raw.csv
+weather_clean.csv
+
